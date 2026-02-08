@@ -1,0 +1,9 @@
+[
+  {
+    "text": "The system shall respond in 2 second",
+    "classification": "Non-Functional",
+    "subtype": "Performance",
+    "explanation": "Classified as Functional by scoring (functional=0, nonfunctional=0).",
+    "action": "accept"
+  }
+]
